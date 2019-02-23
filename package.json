@@ -1,15 +1,13 @@
 {
   "name": "react-router-route",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Handle auth and not auth routes in react",
   "main": "build/index.js",
   "peerDependencies": {
     "react": "^15.5.4"
   },
   "dependencies": {
-    "react": "^15.6.2",
-    "react-router-dom": "^4.3.1",
-    "webpack": "^2.6.1"
+    "react-router-dom": "^4.3.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -30,6 +28,7 @@
     "babel-loader": "^7.0.0",
     "babel-plugin-transform-object-rest-spread": "^6.23.0",
     "babel-plugin-transform-react-jsx": "^6.24.1",
-    "babel-preset-env": "^1.5.1"
+    "babel-preset-env": "^1.5.1",
+    "webpack": "^2.6.1"
   }
 }
