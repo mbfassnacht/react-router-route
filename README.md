@@ -13,7 +13,7 @@ export default {
 ```
 
 ### Create your authentication method
-Take a look to jwt-authentication-token-helper package ;)
+Take a look to [jwt-authentication-helper](https://www.npmjs.com/package/jwt-authentication-helper "jwt-authentication-helper") package ;)
 
 #### React Router with react-router-route example:
 ```js

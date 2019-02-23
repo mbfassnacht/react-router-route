@@ -1,6 +1,6 @@
 {
   "name": "react-router-route",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Handle auth and not auth routes in react",
   "main": "build/index.js",
   "peerDependencies": {
@@ -15,6 +15,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack --watch",
     "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mbfassnacht/react-router-route.git"
   },
   "author": {
     "name": "@mbfassnacht",
